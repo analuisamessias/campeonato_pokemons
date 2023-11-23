@@ -3,7 +3,6 @@
 #include "Pokemon.hpp"
 #include "Treinador.hpp"
 #include "Campeonato.hpp"
-#include "avaliacao_basica_pokemon.hpp"
 
 
 int main()
